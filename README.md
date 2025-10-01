@@ -6,6 +6,8 @@
 
 # JavaScript Variables & Datatypes Exercise
 
+Working on this Oct 2025
+
 In this week’s session, you will practice JavaScript basics and work on applying the concepts we have learned throughout the week.
 
 ### Instructions:
